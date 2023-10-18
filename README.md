@@ -15,12 +15,12 @@ A **selenium** web-scraper specialized in scraping Job Listings from Indeed
 ## Capabilities
 - ✅ can bypass Cloudfare bot blocker
 - ✅ can automatically close pop-up windows
-- ✅ can export scarped result into an Excel
-- ✅ average scraping speed at 7-seconds/job
+- ✅ can export scraped result into an Excel
+- ✅ average scraping speed at 7s/job
 
 ## Requirements
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following:
 
 ```bash
 pip install selenium
