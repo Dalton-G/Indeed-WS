@@ -37,7 +37,7 @@ pip install fsspec
 ```python
 # change these two variables ONLY
 job_ = 'Technician+Aircond'
-location = 'Selangor
+location = 'Selangor'
 ```
 2. ensure that you use **plus symbol (+)** in places where you'd normally space( ), example below:
 ```python
