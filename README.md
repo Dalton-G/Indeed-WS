@@ -66,4 +66,4 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## License
-This project is protected under the [MIT](https://choosealicense.com/licenses/mit/) License
+This project is protected under the [MIT](https://github.com/Dalton-G/Indeed-WS/blob/main/LICENSE) License
