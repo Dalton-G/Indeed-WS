@@ -36,7 +36,7 @@ pip install fsspec
 1. change these **two variables** to suit your search
 ```python
 # change these two variables ONLY
-job_ = 'Technician+Aircond'
+job_ = 'Business+Analyst'
 location = 'Selangor'
 ```
 2. ensure that you use **plus symbol (+)** in places where you'd normally space( ), example below:
