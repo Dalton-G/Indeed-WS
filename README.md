@@ -13,7 +13,7 @@ A **selenium** web-scraper specialized in scraping Job Listings from Indeed
 8. 📜 Job Description
 
 ## Capabilities
-- ✅ can bypass Cloudfare bot blocker
+- ✅ can bypass Cloudflare bot blocker
 - ✅ can automatically close pop-up windows
 - ✅ can export scraped result into an Excel
 - ✅ average scraping speed at 7s/job
